@@ -2,9 +2,10 @@
 
 ## Utilidade
 
-Script em Python que sorteia um livro, capítulo e NÚMERO do verso aleatório da Bíblia a partir de um arquivo JSON estruturado.
+Script em Python que sorteia um livro, capítulo e NÚMERO de um verso aleatório da Bíblia a partir de um arquivo JSON estruturado. Por hora, este script não suporta mostrar o conteúdo do verso em específico, apenas o NÚMERO.
 
 ## Informações
+Esse projetinho não surigu por pura necessidade, mas sim de ócio. Mas, ele pode ser útil, eu acho.
 
 Os dados utilizados, armazenados em 'index.json' baseiam-se no cânon bíblico protestante padrão (com 66 livros), que é a estrutura mais comum para esse tipo de organização de dados. 
 
