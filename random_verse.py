@@ -65,4 +65,4 @@ def main_loop():
 
             print(message)
 
-    print('\nVocê saiu.')
+    print('\nPrograma finalizado: você saiu.')
